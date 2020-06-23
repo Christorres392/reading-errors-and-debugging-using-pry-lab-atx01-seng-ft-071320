@@ -17,4 +17,3 @@ def engage
   engage
   #puts state_log(date)
 end
-
